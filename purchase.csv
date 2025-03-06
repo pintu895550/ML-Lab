@@ -1,0 +1,9 @@
+Age,Income,Gender,Marital_Status,Purchased
+25,30000,Male,Single,No
+45,60000,Female,Married,Yes
+35,50000,Male,Married,No
+50,80000,Female,Single,Yes
+23,25000,Female,Single,No
+40,70000,Male,Married,Yes
+33,45000,Female,Married,No
+55,90000,Male,Single,Yes
